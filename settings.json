@@ -1,0 +1,12 @@
+{
+    "Historical_Data_Length": 500,
+    "Tolerance": 3.4,
+    "Model_Update_Interval": 100,
+    "Initial_Data_Length": 100,
+    "K_Step_Ahead": 1.0,
+    "Redis_Hostname": "localhost",
+    "Redis_Port": 6379,
+    "Data_Channel_Name": "vnf680155_telemetry32",
+    "Result_Channel_Name": "vnf680155_prediction",
+    "Time_Interval_Check_Update": 0.1
+}
